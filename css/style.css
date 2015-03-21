@@ -1,0 +1,24 @@
+.slider-container {
+	padding: 0 2em;
+}
+.noUi-origin {
+	background-color: gray;
+}
+#red .noUi-base {
+	background-color: red;
+}
+#orange .noUi-base {
+	background-color: orange;
+}
+#yellow .noUi-base {
+	background-color: yellow;
+}
+#green .noUi-base {
+	background-color: green;
+}
+#blue .noUi-base {
+	background-color: blue;
+}
+#white .noUi-base {
+	background-color: white;
+}
